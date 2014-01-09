@@ -1,0 +1,5 @@
+************************************************************************************************************************************
+Quelques sites qui me semblent utiles :
+Pour découvrir quelques commandes de manière simple : http://wiki.mandriva.com/fr/Le_shell_sans_peine
+Pour le projet HTML et les scripts : http://ensiwiki.ensimag.fr/index.php/Introduction_aux_scripts_shell
+************************************************************************************************************************************
