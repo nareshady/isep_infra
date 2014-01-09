@@ -1,0 +1,8 @@
+--------------------------------------------------------------------------------------------------------------------------------------------
+Ajouter une clé publique sur Openshift
+Se connecter à son compte sur Openshift
+Aller dans "My apps"
+Puis dans "Settings"
+Ajouter une clé en prenant soin qu'elle réponde au format demandé
+
+--------------------------------------------------------------------------------------------------------------------------------------------
