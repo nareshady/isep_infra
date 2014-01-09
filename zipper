@@ -1,0 +1,5 @@
+# Pour zipper un ou plusisuers fichier(s)
+
+- find /some/where -type f ! -iname '*.gz' -exec gzip '{}' \;
+
+Le fichier compressé porte l'extension .gz  
