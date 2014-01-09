@@ -1,0 +1,27 @@
+
+du
+-------------------------------
+Estimate file space usage
+-------------------------------
+
+Some interesting options:
+
+-a 
+write counts for all files, not just directories
+
+-h
+print sizes in human readable format (e.g., 1K 234M 2G)
+
+--si
+like -h, but use powers of 1000 not 1024
+
+--time 
+ show time of the last modification of any file in the directory
+
+--------------------------------
+
+An example of the usage of du command for our "TrashProject":
+
+du -h | grep . | sort -n | tail -n 1 | cut -d K -f 1
+
+This command displays the size of the current directory. ( directory ".")
