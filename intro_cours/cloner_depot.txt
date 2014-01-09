@@ -1,0 +1,15 @@
+--------------------------------------------------------------------------------------------------------------------------------------------
+Cloner un dépot
+Copier sur Github le "SSH Clone URL"
+Dans le terminal ou la console :
+    > git clone git@github.com:AyakoD/depot.git (SSH Clone URL)   
+Ceci a créé un répertoire depot
+
+SI on souhaite choisir le répertoire :
+    >  git clone git@github.com:AyakoD/depot.git  mondepot   
+Dans ce cas le répertoire de destination se nomme "mondepot"
+
+Il est aussi possible de le faire directement à partir de Github en cliquant simplement sur "Clone in Desktop".
+Dans mon cas (Mac) j'ai eu à télécharger un utilitaire.
+
+--------------------------------------------------------------------------------------------------------------------------------------------

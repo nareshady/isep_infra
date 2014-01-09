@@ -1,0 +1,9 @@
+--------------------------------------------------------------------------------------------------------------------------------------------
+Créer une clé publique sur MAC
+Sur le terminal, entrer la commande ssh-keygen -t rsa
+Accepter le chemin proposé
+Choisir un mot de passe
+Si besoin, copier la clé publique sur le serveur en remplaçant les parties nécessaires cat ~/.ssh/id_rsa.pub | ssh login@monserver.com "cat - >> ~/.ssh/authorized_keys"
+Faire la commande : less nomdelaclé.pub pour avoir le bon format de clé pour la charger sur openshift
+
+--------------------------------------------------------------------------------------------------------------------------------------------
